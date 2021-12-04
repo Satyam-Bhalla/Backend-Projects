@@ -1,0 +1,9 @@
+Introduction:- In this project we will be building a REST API using node and express to send some data from a json file.
+
+ISSUE No:- 1
+
+REST API:- An architectural style designed to use HTTP request to transfer and modify data using GET, POST, PUT and DELETE requests is known as REST API.
+
+NodeJS:- As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications.
+
+Express:- Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.

@@ -1,0 +1,9 @@
+{
+  "data": [
+    { "data-1": "Some random things about data 1" },
+    { "data-2": "Some random things about data 2" },
+    { "data-3": "Some random things about data 3" },
+    { "data-4": "Some random things about data 4" }
+  ],
+  "basePath": "/home/satyam/Documents/Practice/Backend-Projects/REST API - Node/Version 1/"
+}

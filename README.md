@@ -1,6 +1,10 @@
 # Backend-Projects
 This repo will contain the backend specific projects with different architectures, technologies and tools with explanation docs.
 
+## How to understand the repo?
+Every folder in this repo is going to be a separate project and every project can have multiple variations with different features and updates. So there will be sub folders in the parent folders. Every subfolder or folder will contain a `Project Intro.txt` file which will explain how the project is created. Other than this every folder will have some output screenshots as well to get a better understanding about the project.
+
+
 ## Want to see a new project in the repo?
 - Create a new issue with the project details and technologies you want in it.
 Sample issue has been created  [Sample Issue](https://github.com/Satyam-Bhalla/Backend-Projects/issues/1)
